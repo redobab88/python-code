@@ -1,1 +1,1 @@
-print('sort life quick rich')
+print('sort life expo rich')
